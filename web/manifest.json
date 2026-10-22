@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "antika_stok",
     "short_name": "antika_stok",
+=======
+    "name": "antika_stok_takip",
+    "short_name": "antika_stok_takip",
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

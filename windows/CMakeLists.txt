@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(antika_stok LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "antika_stok")
+=======
+project(antika_stok_takip LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "antika_stok_takip")
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

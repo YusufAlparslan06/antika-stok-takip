@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # antika_stok
+=======
+# antika_stok_takip
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
 
 A new Flutter project.
 

@@ -7,7 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Antika Stok</string>
+=======
+	<string>Antika Stok Takip</string>
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>antika_stok</string>
+=======
+	<string>antika_stok_takip</string>
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

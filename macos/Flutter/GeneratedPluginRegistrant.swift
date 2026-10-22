@@ -5,6 +5,7 @@
 import FlutterMacOS
 import Foundation
 
+<<<<<<< HEAD
 import app_links
 import shared_preferences_foundation
 import url_launcher_macos
@@ -13,4 +14,8 @@ func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
   AppLinksMacosPlugin.register(with: registry.registrar(forPlugin: "AppLinksMacosPlugin"))
   SharedPreferencesPlugin.register(with: registry.registrar(forPlugin: "SharedPreferencesPlugin"))
   UrlLauncherPlugin.register(with: registry.registrar(forPlugin: "UrlLauncherPlugin"))
+=======
+
+func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
 }

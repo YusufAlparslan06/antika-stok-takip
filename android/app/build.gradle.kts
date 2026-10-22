@@ -6,7 +6,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.antika_stok"
+=======
+    namespace = "com.example.antika_stok_takip"
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +25,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.antika_stok"
+=======
+        applicationId = "com.example.antika_stok_takip"
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

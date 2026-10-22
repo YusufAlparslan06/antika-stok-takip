@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "antika_stok.app"
+=======
+               BuildableName = "antika_stok_takip.app"
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "antika_stok.app"
+=======
+            BuildableName = "antika_stok_takip.app"
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "antika_stok.app"
+=======
+            BuildableName = "antika_stok_takip.app"
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "antika_stok.app"
+=======
+            BuildableName = "antika_stok_takip.app"
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "antika_stok" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "antika_stok" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "antika_stok.exe" "\0"
             VALUE "ProductName", "antika_stok" "\0"
+=======
+            VALUE "FileDescription", "antika_stok_takip" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "antika_stok_takip" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "antika_stok_takip.exe" "\0"
+            VALUE "ProductName", "antika_stok_takip" "\0"
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

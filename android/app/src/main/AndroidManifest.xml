@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="antika_stok"
+=======
+        android:label="antika_stok_takip"
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

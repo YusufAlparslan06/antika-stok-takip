@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"antika_stok", origin, size)) {
+=======
+  if (!window.Create(L"antika_stok_takip", origin, size)) {
+>>>>>>> 907c29fcfadd7259ef6b86bad2ab152e833c1d48
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);
